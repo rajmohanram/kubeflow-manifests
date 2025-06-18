@@ -48,3 +48,5 @@ rajmor/cert-manager-cainjector:v1.16.1 harbor-registry-non-prod.uidai.gov.in/kub
 rajmor/cert-manager-controller:v1.16.1 harbor-registry-non-prod.uidai.gov.in/kubeflow/jetstack/cert-manager-controller:v1.16.1
 rajmor/cert-manager-webhook:v1.16.1 harbor-registry-non-prod.uidai.gov.in/kubeflow/jetstack/cert-manager-webhook:v1.16.1
 rajmor/oauth2-proxy:v7.7.1 harbor-registry-non-prod.uidai.gov.in/kubeflow/oauth2-proxy/oauth2-proxy:v7.7.1
+rajmor/keycloak:26.2.5-debian-12-r3 harbor-registry-non-prod.uidai.gov.in/rajmor/keycloak:26.2.5-debian-12-r3
+rajmor/postgresql:17.4.0-debian-12-r17 harbor-registry-non-prod.uidai.gov.in/rajmor/postgresql:17.4.0-debian-12-r17
