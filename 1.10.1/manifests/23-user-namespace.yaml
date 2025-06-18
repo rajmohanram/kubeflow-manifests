@@ -1,0 +1,16 @@
+apiVersion: v1
+data:
+  profile-name: kubeflow-devops-uidai.in
+  user: devops@uidai.in
+kind: ConfigMap
+metadata:
+  name: default-install-config-ghbffhc84b
+---
+apiVersion: kubeflow.org/v1beta1
+kind: Profile
+metadata:
+  name: kubeflow-devops-uidai.in
+spec:
+  owner:
+    kind: User
+    name: devops@uidai.in
